@@ -1,1 +1,5 @@
-
+This program was coded by and designed by me and my classmate Emily Chamberlian for our first assignment for CAP4630 'Intro to Artificial Intelligence' 
+A working form in Google Colab may be accessed here: https://colab.research.google.com/drive/1FMYfAv0p-qX_pR0nPspSRjPnF9R7jrPr?usp=sharing
+This assignment runs the search algorithms: A*, BFS, and DFS as well as runs a tic-tac-toe game using the min-max algorithm. The program for the tic-tac-toe game was developed by
+kylie ying whose github is: https://github.com/kying18/tic-tac-toe . Implementation, testing and designing the program was mainly done by me while documentation and research was done by
+my partner Emily Chamberlain.
